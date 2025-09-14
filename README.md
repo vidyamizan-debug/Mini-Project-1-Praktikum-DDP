@@ -40,7 +40,7 @@ Dan yang terakhir ialah jika kita memilih opsi nomor 4, maka kita akan mendapatk
 # Jika tidak memilih angka (1-4)
 <img width="622" height="259" alt="Screenshot 2025-09-14 181507" src="https://github.com/user-attachments/assets/5c85d0f4-5058-4512-a6ed-2109d5bb288b" />
 
-Jika kita memasukkan angka selain 1-4, maka akan muncul pesan seperti pada gambar di atas.\ 
+Jika kita memasukkan angka selain 1-4, maka akan muncul pesan seperti pada gambar di atas.
 \
 \
 Sekian penjelasan dari saya, terimakasih.
