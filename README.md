@@ -5,13 +5,13 @@ MATA KULIAH : Praktikum Dasar-Dasar Pemrograman
 
 # SISTEM REMINDER TUGAS
 
-Di Github ini, saya akan melampirkan sebuah flowchart dan coding python mengenai sistem reminder tugas. 
+Di Github ini, saya akan melampirkan sebuah Flowchart dan pemrograman Python mengenai Sistem Reminder Tugas. 
 Sistem Reminder Tugas ini untuk apa? sistem ini bertujuan untuk membantu kita agar tidak lupa dengan tugas-tugas yang kita miliki di bulan ini, selain itu sistem ini juga melampirkan deadline atau tenggat dari tugas yang telah di input ke dalam sistem. Kita juga bisa menambahkan tugas yang kita miliki ke dalam sistem, serta membaca tugas dan deadline yang kita miliki di sistem ini.  
 
 # FLOWCHART SISTEM REMINDER TUGAS
 <img width="3272" height="3092" alt="Flowchart_MinPro_1_FIXX drawio" src="https://github.com/user-attachments/assets/81c32e98-eb05-4775-a761-de5907013a47" />
 
-Gambar di atas ialah Flowchart "Sistem Reminder Tugas" yang saya buat untuk membantu saya dalam memprogram MinPro 1 saya ini.
+Gambar di atas ialah Flowchart "Sistem Reminder Tugas" yang saya buat untuk membantu saya dalam memprogram Mini Project 1 saya ini.
 
 # Kondisi 1 - Melihat List Lengkap Tugas di Bulan ini (Read)
 <img width="856" height="466" alt="Screenshot 2025-09-14 165619" src="https://github.com/user-attachments/assets/e6cff004-eaf7-4215-a197-53dc64cda63c" />
